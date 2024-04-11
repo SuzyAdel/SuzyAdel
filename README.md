@@ -29,10 +29,10 @@
 
 <p align="center">
   Connect with me:
-  <a href="https://www.linkedin.com/in/suzy-wahba/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank">
+  <a href="https://www.linkedin.com/in/suzy-wahba/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suzy wahba" height="30" width="40" />
   </a>
-  <a href="mailto:suzyadel37@gmail.com" target="blank">
+  <a href="mailto:Suzyadel37@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="suzy wahba" height="30" width="40" />
   </a>
 </p>
