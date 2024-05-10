@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Suzy</h1>
 <p align="center">Egyptian undergrad exploring Software Engineering</p>
 
-<p align="left">This repository is my playground, where I gather resources, projects, and insights to level up my game. From beginner basics to more advanced stuff, I'm here to explore it all. I'm also passionate about hardware and enjoy working with basic machine languages like VHDL, RTL, and assembly.I'm currently eager to dive into data analytics and machine learning to expand my knowledge even further.</p>
+<p align="left">This repository is my playground, where I gather resources, projects, and insights to level up my game. From beginner basics to more advanced stuff, I'm here to explore it all.I've got my sights set on the exciting worlds of data analytics and machine learning, ready to embark on new learning adventures and expand my knowledge even further. Let's make learning an exhilarating journey together!.</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suzyadel&" alt="suzyadel" />
@@ -29,6 +29,7 @@
   </a>
 </p>
 
+<p align="center"> I'm also passionate about hardware and enjoy working with basic machine languages like VHDL, RTL, and assembly</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suzyadel&show_icons=true&locale=en&layout=compact" alt="suzyadel" />
 </p>
