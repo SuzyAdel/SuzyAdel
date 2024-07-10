@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suzy Adel</h1>
 <h3 align="center">Egyptian undergrad exploring Software Engineering</h3>
+<p align="center">Hey there! I'm Suzy, a student exploring the exciting world of Software Engineering. I absolutely love diving into data analitics, experimenting with machine learning, and bringing web development ideas to life. From crafting cool predictive models to creating eye-catching data visualizations, I'm all about turning concepts into reality. Always on the lookout for new things to learn and awesome people to connect with. Let's build something amazing together!</p>
 
 <h3 align="center">GitHub Streak:</h3>
 <p align="center">
@@ -39,6 +40,7 @@
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
   </a> 
 </p>
+<p align="center"> I'm also experienced in Hardware Languages such as VHDL, RTL and Assembly</p>
 
 <h3 align="center">Most Used Languages:</h3>
 <p align="center">
