@@ -1,54 +1,66 @@
-<h1 align="center">Hi 👋, I'm Suzy Adel</h1>
-<h3 align="center">Egyptian undergrad exploring Software Engineering</h3>
-<p align="center">Hey there! I'm Suzy, a student exploring the exciting world of Software Engineering. I absolutely love diving into data analitics, experimenting with machine learning, and bringing web development ideas to life. From crafting cool predictive models to creating eye-catching data visualizations, I'm all about turning concepts into reality. Always on the lookout for new things to learn and awesome people to connect with. Let's build something amazing together!</p>
+<h1 align="center">Hi 👋, I'm Suzy Adel</h1>  
+<h3 align="center">I'm a Computer Engineer blending neural networks, image processing, game dev, and low-level programming to create powerful, visually striking systems. 🎮⚙️</h3>  
 
-<h3 align="center">GitHub Streak:</h3>
+---
+
+### 💡 I **build, optimize, and create**—whether it's:  
+- 🧠 **Machine Learning & AI**: Making data smarter.  
+- 🎮 **Game Dev & Multimedia**: Crafting interactive experiences.  
+- 🛠️ **Low-Level Programming**: MIPS, Assembly, VHDL & OS.
+
+---
+
+### 📊 GitHub Stats  
+
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suzyadel&" alt="suzyadel" />
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-  </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a> 
-   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
-  </a> 
-</p>
-<p align="center"> I'm also experienced in Hardware Languages such as VHDL, RTL and Assembly</p>
+---
 
-<h3 align="center">Most Used Languages:</h3>
+### <p align="center">🔧 Tech Stack</p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suzyadel&show_icons=true&locale=en&layout=compact" alt="suzyadel" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suzyadel&show_icons=true&locale=en&layout=compact"  />
 </p>
 
-<h3 align="center">Connect with me:</h3>
+#### <p align="center">**Programming Languages**</p>  
 <p align="center">
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/> </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30"/> </a>
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30"/> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/> </a>
+</p>
+
+#### <p align="center">**AI & Machine Learning**</p>  
+<p align="center">
+  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="30" height="30"/> </a>
+  <a href="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="30" height="30"/> </a>
+  <a href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="30" height="30"/> </a>
+</p>
+
+#### <p align="center">**Web & Database**</p>  
+<p align="center">
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30"/> </a>
+  <a href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL Server" width="30" height="30"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/> </a>
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="30"/> </a>
+</p>
+
+#### <p align="center">**Graphics & Game Development**</p>  
+<p align="center">
+  <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="30" height="30"/> </a>
+  <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="30" height="30"/> </a>
+  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="30" height="30"/> </a>
+</p>
+
+
+---
+
+### 📬 Connect with Me
+<p>
   <a href="https://linkedin.com/in/suzy wahba" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suzy wahba" height="30" width="40" />
   </a>
