@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suzy Adel</h1>  
+<h1 align="center">Hi 👋, I'm Suzy </h1>  
 <h3 align="center">I'm a Computer Engineer blending neural networks, image processing, game dev, and low-level programming to create powerful, visually striking systems. 🎮⚙️</h3>  
 
 ---
