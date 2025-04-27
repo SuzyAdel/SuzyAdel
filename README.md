@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Suzy </h1>  
+
 <h3 align="center">I'm a Computer Engineer blending neural networks, image processing, game dev, and low-level programming to create powerful, visually striking systems. 🎮⚙️</h3>  
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Woman Coding by Pluralsight"/>
+</p>
 
 ---
-![Hand-Drawn Code](https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif)
 
 ### 💡 I **build, optimize, and create**—whether it's:  
 - 🧠 **Machine Learning & AI**: Making data smarter
 - 🎮 **Game Dev & Multimedia**: Crafting interactive experiences  
 - 🛠️ **Low-Level Programming**: MIPS, Assembly, VHDL & OS
+  
 
 ---
 
