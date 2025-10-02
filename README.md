@@ -10,7 +10,7 @@
 ### 💡 I **build, optimize, and create**—whether it's:  
 - 🧠 **Machine Learning & AI**: Making data smarter
 - 🎮 **Game Dev & Multimedia**: Crafting interactive experiences  
-- 🛠️ **Low-Level Programming**: MIPS, Assembly, VHDL & OS
+- 🛠️ **Low-Level Programming**: MIPS, Assembly, VHDL & OS.
   
 
 ---
